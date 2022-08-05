@@ -1,6 +1,6 @@
 # Joel
 
-I'm Joel from Togo🌴, Back-End developper. I really enjoy learning languages and frameworks like Python, JS and React.
+I'm Joel from Togo🌴, Back-End developper. I really enjoy learning languages and frameworks like Python / Django, JS / React.
 
 Actually:
 
