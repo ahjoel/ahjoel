@@ -1,6 +1,6 @@
 # Joel
 
-I'm Joel from Togo🌴, FullStack developper. I really enjoy learning languages and frameworks like Python, JS and React.
+I'm Joel from Togo🌴, Back-End developper. I really enjoy learning languages and frameworks like Python, JS and React.
 
 Actually:
 
@@ -50,4 +50,4 @@ Here are some ideas to get you started:
 	Sleep-->Code;
 ```
 
-![GHstats](https://github-readme-stats.vercel.app/api?username=Joel02-k&show_icons=true)
+![GHstats](https://github-readme-stats.vercel.app/api?username=ahjoel-k&show_icons=true)
