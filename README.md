@@ -50,4 +50,4 @@ Here are some ideas to get you started:
 	Sleep-->Code;
 ```
 
-![GHstats](https://github-readme-stats.vercel.app/api?username=ahjoel-k&show_icons=true)
+![GHstats](https://github-readme-stats.vercel.app/api?username=ahjoel&show_icons=true)
