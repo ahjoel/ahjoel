@@ -1,6 +1,6 @@
 # Joel
 
-I'm Joel from Togo🌴, web developper. I really enjoy learning languages and frameworks like Php / Laravel / Python / Django, JS / React.
+I'm Joel from Togo🌴, web developper. I really enjoy learning languages and frameworks like Php / Laravel / Js / Python / Django.
 
 Actually:
 
