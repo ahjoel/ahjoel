@@ -1,6 +1,8 @@
 # Joel
 
-I'm Joel from Togo🌴, web developper. I really enjoy learning languages and frameworks like Php / Laravel / Js / Python / Django.
+I'm Joel from Togo🌴, web developper. I really enjoy learning languages and frameworks like : 
+
+(Spring Boot/Java) / Angular / Laravel / (Django/Python).
 
 Actually:
 
@@ -24,6 +26,8 @@ Actually:
   <img aligh="left" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
   <img aligh="left" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img aligh="left" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img aligh="left" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
+  <img aligh="left" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
 </p>
 
 <!--
