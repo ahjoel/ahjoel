@@ -1,8 +1,8 @@
 # Joel
 
-I'm Joel from Togo🌴, web developper. I really enjoy learning languages and frameworks like : 
+I'm Joel from Togo🌴, developper fullstack. I really enjoy learning languages and frameworks like : 
 
-(Spring Boot/Java) / Angular / Laravel / (Django/Python).
+(Next Js/Node Js) / (Django/Python).
 
 Actually:
 
