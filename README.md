@@ -1,34 +1,59 @@
 # Joel
 
-I'm Joel from Togo🌴, developper fullstack. I really enjoy learning languages and frameworks like : 
+# Hi, I'm Joel 👋
 
-(Next Js/Node Js) / (Django/Python).
+### Software Engineer | Transitioning into Cloud & DevOps ☁️
+
+I'm a software engineer with experience building web applications and supporting software solutions in the banking and financial services sector.
+
+I'm currently expanding my skills in **Cloud Computing, DevOps, CI/CD automation, and infrastructure management**, with the goal of building reliable, scalable, and automated deployment environments.
+
+## 🚀 About Me
+
+- 💻 Background in software engineering and full-stack development
+- 🏦 Experience working on digital banking and payment solutions
+- ☁️ AWS Certified Cloud Practitioner
+- 📚 Currently developing my skills in Cloud and DevOps engineering
+- 🎯 Goal: Become a Cloud DevOps Engineer and build practical, production-oriented infrastructure projects
+
+## 🛠️ Technologies & Tools
+
+**Development**
+- JavaScript, TypeScript, Java
+- Angular, Node.js
+
+**Cloud & DevOps — Learning and Practice**
+- AWS
+- Linux
+- Git & GitLab CI/CD
+- Docker
+- Kubernetes
+- Infrastructure as Code
+
+## 🔬 What I'm Working On
+
+I'm building hands-on projects to strengthen my understanding of:
+
+- Cloud infrastructure and deployment
+- CI/CD pipeline automation
+- Containerization and orchestration
+- Infrastructure automation and configuration management
+- Monitoring, troubleshooting, and system reliability
+
+Check out my repositories to follow my learning journey and practical implementations.
+
+## 📈 My Goal
+
+To combine my software engineering background with Cloud and DevOps practices to help teams deliver applications more reliably, efficiently, and securely.
+
+**Learn by building. Automate what can be automated. Improve continuously.**
+
+---
+
+*Always learning, always building.* 🚀
 
 Actually:
 
-
-
-🌱 I’m currently learning amazing things ...
-
-📫 How to reach me: Instagram or email
-
-
-
-### Languages and tools
-
-<p align="left">
-  <img aligh="left" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-  <img aligh="left" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img aligh="left" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img aligh="left" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img aligh="left" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img aligh="left" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img aligh="left" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
-  <img aligh="left" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img aligh="left" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <img aligh="left" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-  <img aligh="left" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
-</p>
 
 <!--
 **Kpoti20/Kpoti20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
